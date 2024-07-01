@@ -17,6 +17,10 @@
   "icon": "icon.png",
   "contributes": {
   },
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/LegeBeker/session-timer.git"
+  },
   "scripts": {
     "lint": "eslint .",
     "pretest": "npm run lint",
