@@ -1,9 +1,9 @@
 {
   "name": "session-timer",
   "displayName": "Session Timer",
-  "description": "A Simple  timer that shows how long the session has been running",
+  "description": "A Simple timer that shows how long the session has been running",
   "publisher": "LegeBeker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.90.0"
   },

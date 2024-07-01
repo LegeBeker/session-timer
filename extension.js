@@ -4,7 +4,7 @@ function activate(context) {
 	let startTime = Date.now();
 
 	let statusBarItem = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Right, 100);
-	statusBarItem.text = "0";
+	statusBarItem.text = "0s";
 	statusBarItem.show();
 
 	// Update the status bar every second
